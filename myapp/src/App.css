@@ -37,8 +37,9 @@
   }
 }
 
-.img{
+.img1{
   display: flex;
   justify-content: space-between;
-  margin: 20px;
+  margin: 50px;
+  flex-wrap: wrap;
 }
